@@ -1,6 +1,7 @@
 # CS381_ProgramminglangugeFundamentals
 
-======================CS 381 Course Information====================================================================
+======================CS 381 Course Information=======================================================
+
 CS 381, Programming Language Fundamentals, is a four-credit course for undergraduate students. This course gives an introduction to the concepts found in a variety of programming languages and to languages from a number of different paradigms.
 
 **********Topics*********
