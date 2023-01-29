@@ -18,6 +18,7 @@ Topics to be covered include:
 9.8.Expressions and Statements
 10.Programming Paradigm
 
+
 Reading
 Concepts of Programming Languages
 By Robert W. Sebesta, Pearson  12th Edition
