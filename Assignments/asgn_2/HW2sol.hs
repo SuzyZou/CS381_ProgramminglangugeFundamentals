@@ -1,6 +1,6 @@
 module HW2sol where
 import HW2types
-
+sname = "Ya Zou"
 -- ********************************
 -- Student Name: Ya Zou           *
 -- Email:zouy2@oregonstate.edu    * 
@@ -151,3 +151,4 @@ move :: Shape -> Point -> Shape
 move (Pt p) d       = Pt (addPt p d)
 move (Circle p r) d = Circle (addPt p d) r
 move (Rect p w h) d = Rect (addPt p d) w h
+
