@@ -1,5 +1,5 @@
 # CS381_ProgramminglangugeFundamentals
-
+professor: Julian Coffman
 
 CS 381 Course Information
 
